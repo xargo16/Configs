@@ -1,4 +1,3 @@
-# Configs
 # Vim config
 Copy .vimrc file into the home directory
 
