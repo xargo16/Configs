@@ -10,7 +10,6 @@ Copy .bashrc file into ~/.bashrc
 
 # i3 config
 1. Install i3-gaps: https://lottalinuxlinks.com/how-to-build-and-install-i3-gaps-on-debian/
-2. 
-  Copy i3_config file into ~/.config/i3/config
-  Run i3-msg reload
-  Run i3-msg restart
+2. Copy i3_config file into ~/.config/i3/config
+3. Run i3-msg reload
+4. Run i3-msg restart
